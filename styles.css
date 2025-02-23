@@ -41,8 +41,15 @@ button:active {
 }
 
 img {
+    display: block;
+    margin: 7.5px auto;
+}
+
+.top{
+    width: 265px; /* Adjust size as needed */
+    height: auto; 
+}
+.bot{
     width: 200px; /* Adjust size as needed */
     height: auto;
-    display: block;
-    margin: 10px auto;
 }
